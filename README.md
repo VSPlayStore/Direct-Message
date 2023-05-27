@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="https://github.com/VsTechDev/Direct-Message">
-    <img src="https://raw.githubusercontent.com/VsTechDev/Direct-Message/master/app/src/main/res/drawable/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/VSPlayStore/Direct-Message">
+    <img src="https://raw.githubusercontent.com/VSPlayStore/Direct-Message/master/app/src/main/res/drawable/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Direct Message</h3>
@@ -9,35 +9,35 @@
   <p align="center">
     This app helps you to Send messages from WhatsApp without saving the contact
     <br />
-    <a href="https://github.com/VsTechDev/Direct-Message"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/VSPlayStore/Direct-Message"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://play.google.com/store/apps/details?id=com.vs.direct.message">Download</a>
+    <a href="https://play.google.com/store/apps/details?id=com.vineelsai.dm">Download</a>
     ·
-    <a href="https://github.com/VsTechDev/Direct-Message/issues">Report Bug</a>
+    <a href="https://github.com/VSPlayStore/Direct-Message/issues">Report Bug</a>
     ·
-    <a href="https://github.com/VsTechDev/Direct-Message/issues">Request Feature</a>
+    <a href="https://github.com/VSPlayStore/Direct-Message/issues">Request Feature</a>
   </p>
 </div>
 
 <p align="center">
-  <a herf="https://github.com/VsTechDev/Direct-Message/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/VsTechDev/Direct-Message" />
+  <a herf="https://github.com/VSPlayStore/Direct-Message/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/VSPlayStore/Direct-Message" />
   </a>
-  <a herf="https://github.com/VsTechDev/Direct-Message/network/members">
-    <img src="https://img.shields.io/github/forks/VsTechDev/Direct-Message" />
+  <a herf="https://github.com/VSPlayStore/Direct-Message/network/members">
+    <img src="https://img.shields.io/github/forks/VSPlayStore/Direct-Message" />
   </a>
-  <a herf="https://github.com/VsTechDev/Direct-Message/stargazers">
-    <img src="https://img.shields.io/github/stars/VsTechDev/Direct-Message" />
+  <a herf="https://github.com/VSPlayStore/Direct-Message/stargazers">
+    <img src="https://img.shields.io/github/stars/VSPlayStore/Direct-Message" />
   </a>
-  <a herf="https://github.com/VsTechDev/Direct-Message/issues">
-    <img src="https://img.shields.io/github/issues/VsTechDev/Direct-Message" />
+  <a herf="https://github.com/VSPlayStore/Direct-Message/issues">
+    <img src="https://img.shields.io/github/issues/VSPlayStore/Direct-Message" />
   </a>
-  <a herf="https://github.com/VsTechDev/Direct-Message/blob/master/LICENSE.txt">
-    <img src="https://img.shields.io/github/license/VsTechDev/Direct-Message" />
+  <a herf="https://github.com/VSPlayStore/Direct-Message/blob/master/LICENSE.txt">
+    <img src="https://img.shields.io/github/license/VSPlayStore/Direct-Message" />
   </a>
-  <a herf="https://play.google.com/store/apps/details?id=com.vs.direct.message">
-    <img src="https://img.shields.io/endpoint?color=blue&url=https%3A%2F%2Fplayshields.herokuapp.com%2Fplay%3Fi%3Dcom.vs.direct.message%26l%3DPlay%2520Store%26m%3D%24installs" />
+  <a herf="https://play.google.com/store/apps/details?id=com.vineelsai.dm">
+    <img src="https://img.shields.io/endpoint?color=blue&url=https%3A%2F%2Fplayshields.herokuapp.com%2Fplay%3Fi%3Dcom.vineelsai.dm%26l%3DPlay%2520Store%26m%3D%24installs" />
   </a>
 </p>
 

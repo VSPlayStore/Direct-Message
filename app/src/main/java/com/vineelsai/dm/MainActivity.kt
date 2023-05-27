@@ -1,4 +1,4 @@
-package com.vs.direct.message
+package com.vineelsai.dm
 
 import android.content.Intent
 import android.net.Uri
@@ -31,7 +31,6 @@ class MainActivity : AppCompatActivity() {
         val message = findViewById<EditText>(R.id.message)
 
         sentBtn.setOnClickListener {
-
             val countryCode = countryCodePicker.selectedCountryCode
 
             if (number.text.trim().length == 10) {

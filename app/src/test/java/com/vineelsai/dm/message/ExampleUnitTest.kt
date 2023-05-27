@@ -1,4 +1,4 @@
-package com.vs.direct.message
+package com.vineelsai.dm.message
 
 import org.junit.Assert.assertEquals
 import org.junit.Test

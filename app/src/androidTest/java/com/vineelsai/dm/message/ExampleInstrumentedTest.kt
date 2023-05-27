@@ -1,4 +1,4 @@
-package com.vs.direct.message
+package com.vineelsai.dm.message
 
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import androidx.test.platform.app.InstrumentationRegistry
