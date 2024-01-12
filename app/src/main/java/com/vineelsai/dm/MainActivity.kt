@@ -6,24 +6,12 @@ import android.os.Bundle
 import android.widget.Button
 import android.widget.EditText
 import androidx.appcompat.app.AppCompatActivity
-import com.google.android.gms.ads.AdRequest
-import com.google.android.gms.ads.AdView
-import com.google.android.gms.ads.MobileAds
 import com.hbb20.CountryCodePicker
 
 class MainActivity : AppCompatActivity() {
-
-    private lateinit var mAdView : AdView
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
-        MobileAds.initialize(this) {}
-
-        mAdView = findViewById(R.id.adView)
-        val adRequest = AdRequest.Builder().build()
-        mAdView.loadAd(adRequest)
 
         val sentBtn = findViewById<Button>(R.id.send)
         val countryCodePicker = findViewById<CountryCodePicker>(R.id.countryCodePicker)

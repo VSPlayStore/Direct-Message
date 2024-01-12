@@ -11,13 +11,13 @@ for (i in envFile) {
 }
 
 android {
-    compileSdk = 33
-    buildToolsVersion = "33.0.2"
+    compileSdk = 34
+    buildToolsVersion = "34.0.0"
 
     defaultConfig {
         applicationId = "com.vineelsai.dm"
         minSdk = 21
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0.0"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
@@ -60,23 +60,16 @@ android {
 
 dependencies {
     // Kotlin
-    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.0")
-    implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.1")
+    implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0")
 
     // Core
-    implementation("androidx.core:core-ktx:1.10.1")
+    implementation("androidx.core:core-ktx:1.12.0")
 
     // UI
     implementation("androidx.appcompat:appcompat:1.6.1")
-    implementation("com.google.android.material:material:1.9.0")
+    implementation("com.google.android.material:material:1.11.0")
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
-
-    // Firebase
-    implementation("com.google.firebase:firebase-bom:32.0.0")
-    implementation("com.google.firebase:firebase-analytics-ktx:21.2.2")
-
-    // ADS
-    implementation("com.google.android.gms:play-services-ads:22.1.0")
 
     // 3rd Party
     implementation("com.hbb20:ccp:2.7.2")
